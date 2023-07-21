@@ -1,0 +1,39 @@
+Objective:
+
+	Vrinda store wants to create a annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023.
+
+refernce: Full project in Excel with Intercative Dashboards | Rishabh Mishra
+
+Dataset Link: https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit?pli=1#gid=1081836936
+
+Steps:
+ 1- Loading dataset into Excel.
+ 2- Data Cleaning.
+ 3- Data Analysis.
+ 4- Dashboard/Report.
+
+
+
+Questions:
+1- Compare the sales and orders using single chart.
+2- Which month got highest sales and orders.
+3- Who purchased more- men or women in 2022?
+4- What are differnet order status in 2022?
+5- List top 10 states contributing to the sales?
+6- Relation between age and gender based on number of order?
+7- Which channel is contributing to maximum sales?
+8- Highest salling category?, etc
+
+Sample Insights:
+1- Womens are more likely to buy compared to men (~64%).
+2- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
+3- Adult age group (19 to 60 yrs) havving maximum purchase (~50%).
+4- Max contributing channels - Amazon, Flipkart and Myntra (~ 80%).
+
+Final conclusion to improve Vrinda Store Sales:
+- Target women customers from adult age group from states like Maharashtra, Karnataka and UP by offering them Coupons/Discounts/Offers.
+
+
+
+📊📈 Excited to share my first Excel Dashboard project, "Vrinda Store Annual Sales 2022" on LinkedIn! 🎉🛍️ From data visualization to insights, I've crafted an interactive masterpiece showcasing the store's sales performance. 📊💼 Proud of my beginner-level achievement in Excel and eager to learn more about data analysis! 
+#ExcelDashboard #DataVisualization #BeginnerAchievements #LinkedInLearning
